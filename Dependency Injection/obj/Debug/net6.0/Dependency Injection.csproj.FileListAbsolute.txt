@@ -1,0 +1,30 @@
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\bin\Debug\net6.0\Dependency Injection.exe
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\bin\Debug\net6.0\Dependency Injection.deps.json
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\bin\Debug\net6.0\Dependency Injection.runtimeconfig.json
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\bin\Debug\net6.0\Dependency Injection.dll
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\bin\Debug\net6.0\Dependency Injection.pdb
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.AssemblyInfo.cs
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.dll
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\obj\Debug\net6.0\refint\Dependency Injection.dll
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.pdb
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.genruntimeconfig.cache
+C:\Users\PC\source\repos\Design Patterns\Dependency Injection\obj\Debug\net6.0\ref\Dependency Injection.dll
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\bin\Debug\net6.0\Dependency Injection.exe
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\bin\Debug\net6.0\Dependency Injection.deps.json
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\bin\Debug\net6.0\Dependency Injection.runtimeconfig.json
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\bin\Debug\net6.0\Dependency Injection.dll
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\bin\Debug\net6.0\Dependency Injection.pdb
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.dll
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\obj\Debug\net6.0\refint\Dependency Injection.dll
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.pdb
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\obj\Debug\net6.0\Dependency Injection.genruntimeconfig.cache
+C:\Users\PC\Source\Repos\Design-Patterns\Dependency Injection\obj\Debug\net6.0\ref\Dependency Injection.dll

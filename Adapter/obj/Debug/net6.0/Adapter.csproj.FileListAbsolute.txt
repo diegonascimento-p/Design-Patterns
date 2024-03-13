@@ -1,0 +1,30 @@
+C:\Users\PC\source\repos\Design Patterns\Adapter\bin\Debug\net6.0\Adapter.exe
+C:\Users\PC\source\repos\Design Patterns\Adapter\bin\Debug\net6.0\Adapter.deps.json
+C:\Users\PC\source\repos\Design Patterns\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+C:\Users\PC\source\repos\Design Patterns\Adapter\bin\Debug\net6.0\Adapter.dll
+C:\Users\PC\source\repos\Design Patterns\Adapter\bin\Debug\net6.0\Adapter.pdb
+C:\Users\PC\source\repos\Design Patterns\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Design Patterns\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Design Patterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Design Patterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Users\PC\source\repos\Design Patterns\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Design Patterns\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\Users\PC\source\repos\Design Patterns\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+C:\Users\PC\source\repos\Design Patterns\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\Users\PC\source\repos\Design Patterns\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+C:\Users\PC\source\repos\Design Patterns\Adapter\obj\Debug\net6.0\ref\Adapter.dll
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\bin\Debug\net6.0\Adapter.exe
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\bin\Debug\net6.0\Adapter.deps.json
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\bin\Debug\net6.0\Adapter.dll
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\bin\Debug\net6.0\Adapter.pdb
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+C:\Users\PC\Source\Repos\Design-Patterns\Adapter\obj\Debug\net6.0\ref\Adapter.dll
